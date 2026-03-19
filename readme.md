@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build backend systems that scale and frontends that perform.With 1+ years hands-on production experience in the MERN stack, I specialize in engineering high-traffic B2B/B2C web applications,internal System and Dashboards — from architecting RESTful APIs to deploying containerized services on AWS
+I build backend systems that scale and frontends that perform.With hands-on production experience in the MERN stack, I specialize in engineering high-traffic B2B/B2C web applications,internal System and Dashboards — from architecting RESTful APIs to deploying containerized services on AWS
 
 
 ## 🌐 Socials:
