@@ -1,6 +1,5 @@
 # 💫 About Me:
-I build backend systems that scale and frontends that perform.With hands-on production experience in the MERN stack, I specialize in engineering high-traffic B2B/B2C web applications,internal System and Dashboards — from architecting RESTful APIs to deploying containerized services on AWS
-
+Results-driven Full-Stack Software Engineer specializing in MERN, Next.js, TypeScript, and AI-powered application development, experience building scalable SaaS platforms and modern web applications. Hands-on experience integrating LLMs and AI APIs, developing intelligent content-generation, and designing scalable full-stack architectures. Proven ability to take products from concept and MVP through deployment, combining strong software engineering practices with emerging AI technologies to build reliable, user-focused solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/walid-shehzad-ali/) 
